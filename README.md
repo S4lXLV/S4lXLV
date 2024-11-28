@@ -50,6 +50,11 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
+## 🔥 Streak Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S4lXLV&theme=radical" alt="GitHub Streak" />
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -57,7 +62,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4lXLV&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## 🔥 Streak Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S4lXLV&theme=radical" alt="GitHub Streak" />
-</div>
