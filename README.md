@@ -1,10 +1,10 @@
-# 👋 Hey there, I'm S4lXLV | Sal | [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#) | [![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#)
+# 👋 Hey there, I'm S4lXLV | Sal | [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/s4lxlv)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=AC5DE7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+Developer;Linux+Enthusiast" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me | [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/S4lXLV)
+## 🚀 About Me | [![X](https://img.shields.io/badge/S4lXLV-%23000000.svg?logo=X&logoColor=white)](https://x.com/S4lXLV)
 - 🔭 Full Stack Developer passionate about creating seamless web experiences
 - 🐍 Python Developer with a love for automation and data analysis
 - 🐧 Linux enthusiast and open-source advocate
